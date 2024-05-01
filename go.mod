@@ -15,7 +15,7 @@ require (
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3
 	github.com/cespare/xxhash/v2 v2.2.0
 	github.com/dennwc/varint v1.0.0
-	github.com/digitalocean/godo v1.108.0
+	github.com/digitalocean/godo v1.113.0
 	github.com/docker/docker v25.0.0+incompatible
 	github.com/edsrzf/mmap-go v1.1.0
 	github.com/envoyproxy/go-control-plane v0.12.0
@@ -83,7 +83,7 @@ require (
 	google.golang.org/api v0.157.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240116215550-a9fa1716bcac
 	google.golang.org/grpc v1.61.0
-	google.golang.org/protobuf v1.32.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.28.6
